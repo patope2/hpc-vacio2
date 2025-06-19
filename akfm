@@ -1,0 +1,20 @@
+commit e1b8d6c8434ae72e0fefe42a807fc3f8554af7c9 (HEAD -> main, origin/main, origin/HEAD)
+Author: root <jhoanleandrovargascollas@gmail.com>
+Date:   Thu Jun 19 23:08:37 2025 +0000
+
+    2
+
+diff --git a/app.py b/app.py
+index 315f10b..ba27ead 100644
+--- a/app.py
++++ b/app.py
+@@ -11,7 +11,7 @@ st.set_page_config(
+ )
+ 
+ # Título principal
+-st.title("🚀 Mi Primera App Streamlit en Docker")
++st.title("🚀 Mi segunda App Streamlit en Docker")
+ st.markdown("---")
+ 
+ # Sidebar
+
